@@ -1,3 +1,21 @@
+ ![Captura de Tela (221)](https://github.com/PauloAquarius0299/domus-design-nextjs/assets/114706743/35ad71d9-44f8-485b-b355-824f978aa939)
+# Domus Design
+Projeto frontend criando com NextJs, TypeScript e React e estilizado com Tailwindcss
+## Introdução 
+A interface estiliza com cores seguindo um padrão pasteis para entregar uma experiencia sofisticada para o usuarios, imagens e fontes já definidas no Tailwind. O projeto foca em uma empresa ficcticia que vende moveis e itens de decoração domiciliar, focando na venda exlusiva desses itens com informações detalhadas sobre a empresa e contatos de negociação. As interações com carrinho e favoritos serão trabalhadas e evoluidas no projeto, visando essa como um projeto de estudos.
+### Pre-Requisitos
+* Instalação do Next com React e Tailwind Css
+* Imagens no Pexel
+### Ferramentas 
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## LINK
+https://domus-design-nextjs.vercel.app/
+![Captura de Tela (222)](https://github.com/PauloAquarius0299/domus-design-nextjs/assets/114706743/b0a88838-0fce-4e24-a5ab-62815c95c0d7)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
