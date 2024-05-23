@@ -2,10 +2,14 @@
 # Domus Design
 Projeto frontend criando com NextJs, TypeScript e React e estilizado com Tailwindcss
 ## Introdução 
-A interface estiliza com cores seguindo um padrão pasteis para entregar uma experiencia sofisticada para o usuarios, imagens e fontes já definidas no Tailwind. O projeto foca em uma empresa ficcticia que vende moveis e itens de decoração domiciliar, focando na venda exlusiva desses itens com informações detalhadas sobre a empresa e contatos de negociação. As interações com carrinho e favoritos serão trabalhadas e evoluidas no projeto, visando essa como um projeto de estudos.
+A interface estiliza com cores seguindo um padrão pasteis para entregar uma experiência sofisticada para o usuários, imagens e fontes já definidas no Tailwind css. O projeto foca em uma empresa fictícias que vende moveis e itens de decoração domiciliar, focando na venda exclusiva desses itens com informações detalhadas sobre a empresa e contatos de negociação. As interações com carrinho e favoritos serão trabalhadas e evoluídas em breve no projeto, visando essa como um projeto de estudos.
 ### Pre-Requisitos
 * Instalação do Next com React e Tailwind Css
 * Imagens no Pexel
+* Figma
+```
+https://www.figma.com/design/L7LAAwFyBfBD7Zx8YV8S8H/Domus-Design-Layout-Interface?node-id=0-1&t=VmZBoOFE95tgtrqd-0
+```
 ### Ferramentas 
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
